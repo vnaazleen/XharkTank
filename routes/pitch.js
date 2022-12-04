@@ -20,7 +20,7 @@ router.post('/', async (req, res) => {
         askAmount: req.body.askAmount,
         equity: req.body.equity,
         createdAt: Date.now(),
-        comments: []
+        offers: []
     })
 
     await newPitch.save((err, pitch) => {
