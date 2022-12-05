@@ -7,6 +7,21 @@ The Backend of XharkTank where budding entrepreneurs can pitch ideas for a busin
 * Node.js 14
 * MongoDB 4.2
 
+## Project Flows
+1. Entrepreneurs will post Pitch by providing these inputs
+    * Name of the entrepreneur posting the pitch
+    * Title of the pitch
+    * Business Idea for the Product they wish to develop
+    * Ask Expected Amount for investment
+    * Percentage of Equity to be diluted
+2. Investors will view all the latest pitches posted to date
+    * If the entrepreneurs post a new pitch, that should also get listed. Note that these submitted pitches will be shown one below the other.
+4. Investors will make a counteroffer to the pitch by providing these inputs
+    * Unique Id of the Pitch made by the entrepreneur
+    * Name of the investor making a counteroffer
+    * Amount ready to invest in the idea
+    * Ask Percentage of Equity for a company
+
 ## Tables/Collections
 1. Pitches
 ```
