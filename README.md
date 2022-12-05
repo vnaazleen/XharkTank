@@ -71,5 +71,8 @@ The Backend of XharkTank where budding entrepreneurs can pitch ideas for a busin
 * Backend - Complete
 * Frontend - Not started
 
+## Presentation
+* [Slides](https://docs.google.com/presentation/d/1kxDNIJR6KaReoIpBPJevuvDEYeD1v9_ZX3ve9SaDwRU/edit?usp=sharing)
+
 ## Contact
 Created by @vnaazleen - feel free to contact me!
