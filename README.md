@@ -73,6 +73,7 @@ The Backend of XharkTank where budding entrepreneurs can pitch ideas for a busin
 
 ## Presentation
 * [Slides](https://docs.google.com/presentation/d/1kxDNIJR6KaReoIpBPJevuvDEYeD1v9_ZX3ve9SaDwRU/edit?usp=sharing)
+* [Video Explanation](https://www.youtube.com/watch?v=-6qCLcrCFJg)
 
 ## Contact
 Created by @vnaazleen - feel free to contact me!
